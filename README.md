@@ -14,7 +14,6 @@
 <li>Flask</li>
 <li>Web Development</li>
 <li>SQL</li>
-<li>Web Development</li>
 </ul>
 
 <br/>
