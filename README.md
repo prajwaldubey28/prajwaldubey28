@@ -29,8 +29,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prajwal-dubey-8400711ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:prajwal.dubey@vit.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/prajwal-dubey-8400711ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prajwal%20Dubey-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:prajwal.dubey@vit.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-prajwal.dubey@vit.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [prajwaldubey28](https://github.com/prajwaldubey28)
