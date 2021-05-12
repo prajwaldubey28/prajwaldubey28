@@ -7,14 +7,14 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <ul>
-<li>1. Python</li>
-<li>2. C++</li>
-<li>3. Machine Learning</li>
-<li>4. Deep Learning</li>
-<li>5. Flask</li>
-<li>6. Web Development</li>
-<li>7. SQL</li>
-<li>8. Web Development</li>
+<li>Python</li>
+<li>C++</li>
+<li>Machine Learning</li>
+<li>Deep Learning</li>
+<li>Flask</li>
+<li>Web Development</li>
+<li>SQL</li>
+<li>Web Development</li>
 </ul>
 
 <br/>
