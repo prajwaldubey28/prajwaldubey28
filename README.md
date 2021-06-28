@@ -32,4 +32,19 @@
 <a href="mailto:prajwal.dubey@vit.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-prajwal.dubey@vit.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+## 📢 Competitive Programming Handles
+<p align="left">
+    <a href="https://www.codechef.com/users/prajwaldubey28">
+    <img src="https://cp-logo.vercel.app/codechef/prajwaldubey28" alt="codechef" style="vertical-align:top; margin:35px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://codeforces.com/profile/prajwaldubey28">
+    <img src="https://cp-logo.vercel.app/codeforces/prajwaldubey28" alt="codeforces" style="vertical-align:top; margin:35px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/Prajwal28/9">
+    <img src="https://cp-logo.vercel.app/leetcode/Prajwal28" alt="leetcode" style="vertical-align:top; margin:35px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
 ⭐️ From [prajwaldubey28](https://github.com/prajwaldubey28)
