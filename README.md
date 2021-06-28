@@ -46,8 +46,6 @@
     <img src="https://cp-logo.vercel.app/leetcode/Prajwal28" alt="leetcode" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=prajwaldubey28.prajwaldubey28" alt="visitor badge"/>       
-</p>
+
 
 ⭐️ From [prajwaldubey28](https://github.com/prajwaldubey28)
